@@ -1,0 +1,1 @@
+Criando novo arquivo para usar git e commitar no github. 
